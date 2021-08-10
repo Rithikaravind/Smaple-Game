@@ -1,1 +1,1 @@
-# Smaple-Game
+# Sample-Game
